@@ -8,6 +8,7 @@
  */
 //commento test
 //commento test 2
+//c3
 public class Sommatore {
 	private int a;
 	private int b;
