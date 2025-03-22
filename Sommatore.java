@@ -6,7 +6,7 @@
    - compilare ed eseguire il codice per verificare la risposta
 
  */
-
+//commento test
 public class Sommatore {
 	private int a;
 	private int b;
@@ -42,11 +42,11 @@ public class Sommatore {
 		//da la somma tra i campi di s, quindi 40+30
 		System.out.println(s.sommaStrana());
 		//da la somma tra parametri dichiarati nella funzione stessa
-		//cioè 0+0
+		//cioÃ¨ 0+0
 		System.out.println(s.somma(3,2));
-		//ritorna somma di parametri formali, cioè 3+2
+		//ritorna somma di parametri formali, cioÃ¨ 3+2
 		System.out.println(s.sommaStrana(3,2));
 		//ritorna somma tra parametro a di s e secondo parametro formale,
-		//cioè 40+2
+		//cioÃ¨ 40+2
 	}
 }
